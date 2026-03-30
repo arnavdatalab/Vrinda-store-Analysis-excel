@@ -90,7 +90,7 @@ The Excel workbook contains the following sheets:
 | `Sales Vs Order` | Pivot: monthly order count vs revenue |
 | `Men vs Women` | Pivot: gender-wise revenue comparison |
 | `Order Status` | Pivot: breakdown of delivery, returns, cancellations |
-| `Sheet5` | Pivot: state-wise revenue ranking |
+| `Top sales` | Pivot: state-wise revenue ranking |
 
 ---
 
@@ -126,7 +126,7 @@ Vrinda_General_Store_Data_Analysis.xlsx
 ├── Sales Vs Order           ← Monthly trend pivot
 ├── Men vs Women             ← Gender analysis pivot
 ├── Order Status             ← Fulfillment pivot
-└── Sheet5                   ← State-wise pivot
+└── Top sales                   ← State-wise pivot
 ```
 
 ---
