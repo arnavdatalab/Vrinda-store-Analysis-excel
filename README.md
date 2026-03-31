@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project performs a full-year sales analysis for **Shiv General Store** (also referred to as Vrinda Store) — a retail business selling ethnic and western apparel across major Indian e-commerce platforms. The dataset covers **31,000+ orders placed throughout 2022**, cleaned and analysed entirely in Microsoft Excel.
+This project performs a full-year sales analysis for **Vrinda Store**  — a retail business selling ethnic and western apparel across major Indian e-commerce platforms. The dataset covers **31,000+ orders placed throughout 2025**, cleaned and analysed entirely in Microsoft Excel.
 
 The goal was to answer key business questions that help the store understand **who their customers are**, **where they shop from**, and **which sales channels drive the most revenue** — so the business can make smarter decisions in 2023.
 
@@ -17,7 +17,7 @@ The goal was to answer key business questions that help the store understand **w
 | Field | Details |
 |---|---|
 | **Source** | Internal store order data |
-| **Period** | January 2022 – December 2022 |
+| **Period** | January 2025 – December 2025 |
 | **Records** | 31,047 rows |
 | **Columns** | 21 (Order ID, Customer ID, Gender, Age, Age Group, Date, Month, Status, Channel, SKU, Category, Size, Qty, Amount, Ship City, Ship State, Pincode, Country, B2B flag) |
 | **Tool Used** | Microsoft Excel (Pivot Tables, Charts, Formulas, Dashboard) |
@@ -159,4 +159,4 @@ This project is part of my **Data Analyst portfolio**, demonstrating proficiency
 
 ## 📬 Connect
 
-If you found this useful or have suggestions, feel free to connect with me on [LinkedIn](#) or raise an issue in this repository.
+If you found this useful or have suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/krarnv/) or raise an issue in this repository.
