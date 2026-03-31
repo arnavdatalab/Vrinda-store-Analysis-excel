@@ -131,6 +131,10 @@ Vrinda_General_Store_Data_Analysis.xlsx
 
 ---
 
+## 📸 Dashboard Screenshots
+<img width="1429" height="576" alt="image" src="https://github.com/user-attachments/assets/d73a67bb-6235-4064-873b-3640cd9f6d98" />
+
+
 ## 🚀 How to Run / Explore
 
 1. Download the `.xlsx` file from this repository.
